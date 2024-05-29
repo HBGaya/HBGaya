@@ -18,3 +18,28 @@ In my past working experience, **Get-licensed** was the first company where I th
 Apart from the coding world or can say tech-geek world 😁. I like to travel, try out some new food and learning new languages. Following this hobby I have travelled to Italy 🇮🇹, Germany 🇩🇪, Switzerland 🇨🇭, Austria 🇦🇹, France 🇫🇷 and some parts of northern and southern regions of my country 🇵🇰 as well. 
 
 Also I am learning German 🇩🇪 language to increase my language learning skills and to open a new door of endless opportunities. You can check my progress of learning German Language on Duolingo using this link: [Duolingo](https://www.duolingo.com/profile/hamxxx?via=share_profile_link) 
+
+# Current Tech Stacks
+
+- Flutter 3.0 (**Android & iOS**)
+- Dart
+- Java-script
+- Php Laravel
+- C/C++
+- HTML
+- CSS
+- Bootstrap
+- API Integration
+- **Flutter Redux | RiverPod 2.0 | GetX | Provider**
+- Firebase
+- AWS S3 Bucket
+- Google Cloud Platform
+- Facebook Developer Platform
+- Flutter Fire
+- Wistia
+- Google Maps
+- Google Directions & Distance Matrix API
+- Worked on camera recording features
+- Integrated QR code scanner
+
+
