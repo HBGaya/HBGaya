@@ -7,8 +7,14 @@
 
 # Professional Summary & Background
 
-Hello my name is Hamza and I am a flutter developer with 5 years of experience, mostly developing and deploying intuitive and dynamic Android and IOS applications. I have done my graduation in computer science from a reputable Institute in Karachi, Pakistan and started my career in 2019 as a junior level PHP-Laravel developer but after a few months I switched to Flutter and did self-learning on it because of the curiosity I had for exploring the new technological stack.
+Hello my name is Hamza and I am a **flutter developer** with **5** years of experience, mostly developing and deploying intuitive and dynamic Android and IOS applications. I have done my graduation in computer science from a reputable Institute in Karachi, Pakistan and started my career in 2019 as a junior level **PHP-Laravel** developer but after a few months I switched to Flutter and did self-learning on it because of the curiosity I had for exploring the new technological stack.
 
-I have an exposure of working in both project-based and product-based organizations and up for more challenges especially would love 💗 to venture myself in Fintech industry.
+I have an exposure of working in both **project-based and product-based** organizations and up for more challenges especially would love 💗 to venture myself in Fintech industry.
 
-In my past working experience, Get-licensed was the first company where I thoroughly enjoyed working there. While working there I got to know about the agile practices and improved my coding standards and practices and got to explore myself much more in Flutter.
+In my past working experience, **Get-licensed** was the first company where I thoroughly enjoyed working there. While working there I got to know about the agile practices and improved my coding standards and practices and got to explore myself much more in Flutter.
+
+# Hobbies & Interests
+
+Apart from the coding world or can say tech-geek world 😁. I like to travel, try out some new food and learning new languages. Following this hobby I have travelled to Italy 🇮🇹, Germany 🇩🇪, Switzerland 🇨🇭, Austria 🇦🇹, France 🇫🇷 and some parts of northern and southern regions of my country 🇵🇰 as well. 
+
+Also I am learning German 🇩🇪 language to increase my language learning skills and to open a new door of endless opportunities. You can check my progress of learning German Language on Duolingo using the link below,[Duolingo](https://www.duolingo.com/profile/hamxxx?via=share_profile_link) 
