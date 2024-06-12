@@ -44,4 +44,11 @@ Also I am learning German 🇩🇪 language to increase my language learning ski
 - Worked on camera recording features
 - Integrated QR code scanner
 
+# Liked My Work
+
+Support me by buying a pizza,
+
+<a href="https://www.buymeacoffee.com/hamxss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>.
+
+
 
