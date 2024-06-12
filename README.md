@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning react native.
 - 🤔 I’m looking for new opportunities for mobile app developer.
 - 🚀 Check out my industrial portfolio on this link [My Industrial portfolio](https://drive.google.com/file/d/1FHen06L_EGP6XNtG_5KwtsBsyoUqh2j6/view?usp=sharing)
-- If you like my work and want to catch up with amazing work further, keep me motivated <a href="https://www.buymeacoffee.com/hamxss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>. 
+- If you like my work and want to catch up with amazing work further, keep me motivated and buy me a pizza 😜
+-  <a href="https://www.buymeacoffee.com/hamxss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>. 
 
 # Professional Summary & Background
 
