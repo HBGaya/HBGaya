@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on evolving my portfolio on Flutter through public repositories.
-- 🌱 I’m currently learning react native.
+- 🌱 I’m currently learning swift.
 - 🤔 I’m looking for new opportunities for mobile app developer.
 - 🚀 Check out my industrial portfolio on this link [My Industrial portfolio](https://drive.google.com/file/d/1FHen06L_EGP6XNtG_5KwtsBsyoUqh2j6/view?usp=sharing)
 - If you like my work and want to catch up with amazing work further, keep me motivated and buy me a pizza 😜
