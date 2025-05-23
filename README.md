@@ -23,6 +23,19 @@ Outside of coding, I'm passionate about traveling, trying new cuisines, and lear
 Currently, I'm learning German 🇩🇪 to broaden my linguistic skills and unlock new personal and professional opportunities.
 Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.duolingo.com/profile/hamxxx?via=share_profile_link)
 
+# 📂 Industrial Portfolio
+
+🔸 **Nutrition App (Kuwait)**  
+Helped build and launch a nutrition-focused app for clients in Kuwait.  
+- 1,000+ downloads on Play Store  
+- Integrated FCM for real-time notifications
+- Consumed and managed REST APIs for user authentication, nutrition plans, and health tracking modules.
+- Built using Flutter with Provider for state management, ensuring scalability and performance.
+- 🛒 [View on Play Store](https://shorturl.at/9Ep5q)
+- 🛒 [View on App Store](https://shorturl.at/yJGx2)
+
+
+
 # 🛠️ Tech Stack & Skills
 
 ## 🔹 Mobile App Development
