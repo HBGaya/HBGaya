@@ -23,32 +23,34 @@ Outside of coding, I'm passionate about traveling, trying new cuisines, and lear
 Currently, I'm learning German 🇩🇪 to broaden my linguistic skills and unlock new personal and professional opportunities.
 Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.duolingo.com/profile/hamxxx?via=share_profile_link)
 
-# Current Tech Stacks
+# 🛠️ Tech Stack & Skills
 
-- Flutter 3.0 (**Android & iOS**)
+## 🔹 Mobile App Development
+- Flutter 3.0 (Android & iOS)
 - Dart
-- Java-script
-- Php Laravel
-- C/C++
-- HTML
-- CSS
-- Bootstrap
+- **State Management:** Redux, Riverpod 2.0, GetX, Provider
+- Firebase & FlutterFire
 - API Integration
-- **Flutter Redux | RiverPod 2.0 | GetX | Provider**
-- Firebase
+- Camera Recording & QR Code Scanner
+- Google Maps, Directions & Distance Matrix API
+
+## 🔹 Web Development
+PHP (Laravel)
+JavaScript
+HTML, CSS, Bootstrap
+
+## 🔹 Cloud & Platforms
 - AWS S3 Bucket
 - Google Cloud Platform
 - Facebook Developer Platform
-- Flutter Fire
 - Wistia
-- Google Maps
-- Google Directions & Distance Matrix API
-- Worked on camera recording features
-- Integrated QR code scanner
+
+## 🔹 Other Programming Languages
+- C / C++
 
 # Liked My Work
 
-Support me by buying a pizza,
+Support me by buying a coffee
 
 <a href="https://www.buymeacoffee.com/hamzag"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
