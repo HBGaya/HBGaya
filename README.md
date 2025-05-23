@@ -25,6 +25,13 @@ Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.d
 
 # 📂 Industrial Portfolio
 
+🔸 **Get Licensed – Driving App**  
+A regulatory and educational mobile app with 50K+ downloads, connecting UK learner drivers to certified instructors.  
+- Developed high-quality training modules using video player components  
+- Implemented Redux for robust state management  
+- 🛒 [View on Play Store](https://shorturl.at/yO6c3)
+- 🛒 [View on App Store](https://shorturl.at/92Bpx)  
+
 🔸 **Nutrition App (Kuwait)**  
 Helped build and launch a nutrition-focused app for clients in Kuwait.  
 - 1,000+ downloads on Play Store  
@@ -34,7 +41,7 @@ Helped build and launch a nutrition-focused app for clients in Kuwait.
 - 🛒 [View on Play Store](https://shorturl.at/9Ep5q)
 - 🛒 [View on App Store](https://shorturl.at/yJGx2)
 
-
+**Full Portfolio**: [View LinkedIn](https://www.linkedin.com/services/page/000940336a960612a9/)
 
 # 🛠️ Tech Stack & Skills
 
