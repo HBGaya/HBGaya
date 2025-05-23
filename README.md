@@ -27,7 +27,7 @@ Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.d
 
 ## 🔹 Mobile App Development
 - Flutter 3.0 (Android & iOS)
-- [Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 - Dart
 - **State Management:** Redux, Riverpod 2.0, GetX, Provider
 - Firebase & FlutterFire
