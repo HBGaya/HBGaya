@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on evolving my portfolio on Flutter through public repositories.
-- 🌱 I’m currently learning swift.
-- 🤔 I’m looking for new opportunities for mobile app developer.
-- 🚀 Check out my industrial portfolio on this link [My Industrial portfolio](https://drive.google.com/file/d/1FHen06L_EGP6XNtG_5KwtsBsyoUqh2j6/view?usp=sharing)
-- If you like my work and want to catch up with amazing work further, keep me motivated and buy me a pizza 😜
--  <a href="https://www.buymeacoffee.com/hamxss"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>. 
+- 🔭 I’m currently enhancing my Flutter portfolio by building open-source projects and sharing t-hem via public repositories.
+- 🌱 I'm expanding my skill set by learning Swift to strengthen my iOS development capabilities.
+- 👀 I'm open to new opportunities as a Mobile App Developer, especially in innovative and impact-driven environments.
 
 # Professional Summary & Background
 
@@ -53,7 +50,7 @@ Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.d
 
 Support me by buying a pizza,
 
-<a href="https://www.buymeacoffee.com/hamzag"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>.
+<a href="https://www.buymeacoffee.com/hamzag"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 
