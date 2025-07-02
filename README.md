@@ -72,7 +72,8 @@ HTML, CSS, Bootstrap
 
 Support me by buying a coffee
 
-<a href="https://www.buymeacoffee.com/hamzag"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hamxss&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/hamzag)
+
 
 
 
