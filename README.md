@@ -107,9 +107,9 @@ Below are my **GitHub-showcased commercial projects**, each with its dedicated d
 
 # 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HBGaya&show_icons=true&theme=radical)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HBGaya&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBGaya&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBGaya&layout=compact&theme=tokyonight)
 
 ---
 
@@ -123,8 +123,8 @@ I'm building **Flop Coder**, a fun, raw, real, educational brand for:
 - AI-powered experiments  
 - Short-form reels for social reach  
 
-🌐 Flop Coder Website/Bio Link (Add once ready)  
-👉 `YOUR_FLOP_CODER_LINK_HERE`
+🌐 Flop Coder Website/Bio Link  
+👉 [Bio Link](https://campsite.to/hbg_flop_coder)
 
 ---
 
