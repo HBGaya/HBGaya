@@ -142,7 +142,7 @@ If you’d like to support my open-source projects & content creation:
 
 ## 📄 CV / Resume
 You can download or view my full CV here:  
-[View CV](YOUR_CV_LINK_HERE)
+[View CV](https://drive.google.com/file/d/1Zr2vtMf_fA1Eoo1nhpxwp-InNJfPQ_xC/view?usp=drive_link)
 
 ---
 
