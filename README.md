@@ -105,18 +105,11 @@ Below are my **GitHub-showcased commercial projects**, each with its dedicated d
 
 ---
 
-If you want, I can also categorize them under:  
-**E-commerce | Tracking | Social | Community | Video | Health**
-
-Just say **“pal categorize these projects”**.
-
----
-
 # 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza-bilal-g&show_icons=true&theme=radical)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HBGaya&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-bilal-g&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBGaya&layout=compact&theme=radical)
 
 ---
 
