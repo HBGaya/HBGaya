@@ -1,79 +1,166 @@
-## Hi there 👋
+## 👋 Hi there — I'm Hamza!
 
-- 🔭 I’m currently enhancing my Flutter portfolio by building open-source projects and sharing t-hem via public repositories.
-- 🌱 I'm expanding my skill set by learning Swift to strengthen my iOS development capabilities.
-- 👀 I'm open to new opportunities as a Mobile App Developer, especially in innovative and impact-driven environments.
+A **Senior Flutter Developer (6+ years)** specializing in scalable, high-quality mobile applications for **Android & iOS**.  
+Currently expanding into **Kotlin**, **KMP**, **AI workflows**, and building my personal dev brand **Flop Coder**.
 
-# Professional Summary & Background
+---
 
-👋 Hi, I’m Hamza, a Flutter developer with 6+ years of hands-on experience in building and deploying dynamic, user-friendly mobile applications for both Android and iOS.
+# 🚀 What I'm Currently Doing
 
-I hold a degree in Computer Science from a reputable institute in Karachi, Pakistan. I began my tech journey in 2019 as a junior PHP-Laravel developer, but soon discovered my passion for mobile development and transitioned to Flutter through self-learning—driven by a deep curiosity for new technologies.
+- 🔭 Enhancing my Flutter portfolio with open-source & industrial repos  
+- 🌱 Learning **Kotlin syntaxes** on Exercism + building foundations for **Kotlin Multiplatform**  
+- 🧪 Experimenting with **AI tools** to improve speed & creativity  
+- 🎥 Preparing Flutter + Dev tutorials for **Flop Coder**  
+- 📝 Learning content creation for YouTube, TikTok & Instagram  
+- 👀 Open to opportunities in mobile engineering (Flutter/KMP)  
 
-Over the years, I’ve worked in both project-based and product-driven environments, gaining diverse exposure and tackling real-world challenges. I’m especially eager to explore opportunities in the **Fintech industry**, where I can continue to grow and contribute meaningfully.
+---
 
-One of my most rewarding roles was at **Get Licensed**, where I not only deepened my expertise in Flutter but also embraced Agile methodologies and refined my development practices in a collaborative, fast-paced setting.
+# 🎖️ Badges
 
-Always open to learning, contributing, and building innovative digital experiences!
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-Learning-orange?logo=kotlin)
+![Firebase](https://img.shields.io/badge/Firebase-Developer-yellow?logo=firebase)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-Exploring-purple)
+![AI](https://img.shields.io/badge/AI%20Tools-Experimenting-black?logo=openai)
+![Content Creator](https://img.shields.io/badge/Flop%20Coder-Creator-red)
 
-# Hobbies & Interests
+---
 
-Outside of coding, I'm passionate about traveling, trying new cuisines, and learning new languages. These interests have taken me across Europe—Italy 🇮🇹, Germany 🇩🇪, Switzerland 🇨🇭, Austria 🇦🇹, and France 🇫🇷—as well as to the stunning northern and southern regions of my home country, Pakistan 🇵🇰.
+# 🧑‍💻 Professional Summary
 
-Currently, I'm learning German 🇩🇪 to broaden my linguistic skills and unlock new personal and professional opportunities.
-Feel free to follow my progress on Duolingo: [My Duolingo Profile](https://www.duolingo.com/profile/hamxxx?via=share_profile_link)
+I’m a Karachi-based 🇵🇰 mobile developer with:
 
-# 📂 Industrial Portfolio
+✔ 6+ years in **Flutter**  
+✔ Experience across **E-commerce, Community, Health, Learning & Services**  
+✔ Expertise in UI architecture & app launches  
+✔ Strong mentoring skills, guiding junior devs  
+✔ Hands-on state management, Firebase, Maps & Payments  
 
-🔸 **Get Licensed – Driving App**  
-A regulatory and educational mobile app with 50K+ downloads, connecting UK learner drivers to certified instructors.  
-- Developed high-quality training modules using video player components  
-- Implemented Redux for robust state management  
-- 🛒 [View on Play Store](https://shorturl.at/yO6c3)
-- 🛒 [View on App Store](https://shorturl.at/92Bpx)  
+I began my journey from PHP–Laravel → shifted to Flutter → now expanding into Kotlin + KMP.
 
-🔸 **Nutrition App (Kuwait)**  
-Helped build and launch a nutrition-focused app for clients in Kuwait.  
-- 1,000+ downloads on Play Store  
-- Integrated FCM for real-time notifications
-- Consumed and managed REST APIs for user authentication, nutrition plans, and health tracking modules.
-- Built using Flutter with Provider for state management, ensuring scalability and performance.
-- 🛒 [View on Play Store](https://shorturl.at/9Ep5q)
-- 🛒 [View on App Store](https://shorturl.at/yJGx2)
+My time at **Get Licensed (UK)** played a major role in building discipline, clean architecture, and agile practices.
 
-**Full Portfolio**: [View LinkedIn](https://www.linkedin.com/services/page/000940336a960612a9/)
+---
 
-# 🛠️ Tech Stack & Skills
+# 🎨 Tech Stack
 
-## 🔹 Mobile App Development
-- Flutter 3.0 (Android & iOS)
-- Dart
-- **State Management:** Redux, Riverpod 2.0, GetX, Provider
-- Firebase & FlutterFire
-- API Integration
-- Camera Recording & QR Code Scanner
-- Google Maps, Directions & Distance Matrix API
+### 📱 Mobile Development
+| Flutter | Dart | Kotlin | KMP | Firebase | Maps | IAP | Camera | QR Code |
+|--------|------|--------|-----|----------|------|------|--------|---------|
+| ✔ | ✔ | ⚡ Learning | ⚡ Learning | ✔ | ✔ | ✔ | ✔ | ✔ |
 
-## 🔹 Web Development
-PHP (Laravel)
-JavaScript
-HTML, CSS, Bootstrap
+### ⚙️ State Management
+- Redux  
+- Riverpod 2.0  
+- GetX  
+- Provider
+- BLoC  
 
-## 🔹 Cloud & Platforms
-- AWS S3 Bucket
-- Google Cloud Platform
-- Facebook Developer Platform
-- Wistia
+### 🌎 Backend / Web
+- PHP (Laravel)  
+- JS  
+- HTML/CSS/Bootstrap  
 
-## 🔹 Other Programming Languages
-- C / C++
+### ☁️ Cloud & Platforms
+- AWS S3  
+- GCP  
+- Firebase  
+- Facebook Developers  
 
-# Liked My Work
+---
 
-Support me by buying a coffee
+# 🔥 Featured Industrial Projects (With Their Own Repos)
+
+Below are my **GitHub-showcased commercial projects**, each with its dedicated demo repository.
+
+---
+
+## 🛡️ **Guard Pass – Security & Claims App (UK)**  
+✔ Video recording module  
+✔ Custom video player  
+✔ UI consistency fixes  
+✔ Bug fixing  
+✔ Polishing of existing modules  
+👉 **Repo:** [View Repository](https://github.com/HBGaya/GuardPass)
+
+---
+
+## 🌍 **Pearl Island – Community App (Qatar)**  
+✔ Real-time limousine tracking  
+✔ Google Maps live driver updates  
+✔ User-driver polling optimization  
+✔ UI improvements  
+👉 **Repo:** [View Repository](https://github.com/HBGaya/ThePearlApp)
+
+---
+
+## 🛒 **Market Toll – E-commerce / OLX-like App**  
+✔ Complete UI from scratch  
+✔ Stripe payment integration  
+✔ Architecture mentoring for juniors  
+✔ Night-shift project at Launch Box  
+👉 **Repo:** [View Repository](https://github.com/HBGaya/MarketTollApp)
+
+---
+
+If you want, I can also categorize them under:  
+**E-commerce | Tracking | Social | Community | Video | Health**
+
+Just say **“pal categorize these projects”**.
+
+---
+
+# 📊 GitHub Stats
+
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamza-bilal-g&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-bilal-g&layout=compact&theme=radical)
+
+---
+
+# 🎥 Flop Coder — My Personal Brand
+
+I'm building **Flop Coder**, a fun, raw, real, educational brand for:
+
+- Flutter tutorials  
+- Kotlin learning journey  
+- Dev lifestyle content  
+- AI-powered experiments  
+- Short-form reels for social reach  
+
+🌐 Flop Coder Website/Bio Link (Add once ready)  
+👉 `YOUR_FLOP_CODER_LINK_HERE`
+
+---
+
+# ✈️ Hobbies & Interests
+
+- Traveling across Europe & Pakistan  
+- Learning new languages (Currently German 🇩🇪)  
+- Trying global cuisines  
+- Content creation & editing  
+
+Track my German progress:  
+👉 **[Duolingo Profile](https://www.duolingo.com/profile/hamxxx?via=share_profile_link)**
+
+---
+
+# ☕ Support My Work
+
+If you’d like to support my open-source projects & content creation:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/hamzag)
 
+---
 
+## 📄 CV / Resume
+You can download or view my full CV here:  
+[View CV](YOUR_CV_LINK_HERE)
 
+---
+
+Thanks for checking out my profile!  
+Feel free to explore my repositories or reach out for collaborations 🚀
 
