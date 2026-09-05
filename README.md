@@ -1,4 +1,4 @@
-## 👋 Hi there — I'm Hamza a.k.a Flop Coder!
+## 👋 Hi there — I'm Hamza!
 
 A **Senior Flutter Developer (6+ years)** specializing in scalable, high-quality mobile applications for **Android & iOS**.  
 Currently expanding into **Kotlin**, **KMP**, **AI workflows**, and building my personal dev brand **Flop Coder**.
