@@ -1,7 +1,7 @@
 ## 👋 Hi there — I'm Hamza!
 
 A **Senior Flutter Developer (6+ years)** specializing in scalable, high-quality mobile applications for **Android & iOS**.  
-Currently expanding into **Kotlin**, **KMP**, **AI workflows**, and building my personal dev brand **Flop Coder**.
+Currently expanding into **Kotlin**, **KMP**, and **AI workflows**.
 
 ---
 
@@ -9,8 +9,7 @@ Currently expanding into **Kotlin**, **KMP**, **AI workflows**, and building my 
 
 - 🔭 Enhancing my Flutter portfolio with open-source & industrial repos  
 - 🌱 Learning **Kotlin syntaxes** on Exercism + building foundations for **Kotlin Multiplatform**  
-- 🧪 Experimenting with **AI tools** to improve speed & creativity  
-- 🎥 Preparing Flutter + Dev tutorials for **Flop Coder**  
+- 🧪 Experimenting with **AI tools** to improve speed & creativity   
 - 📝 Learning content creation for YouTube, TikTok & Instagram  
 - 👀 Open to opportunities in mobile engineering (Flutter/KMP)  
 
@@ -24,7 +23,6 @@ Currently expanding into **Kotlin**, **KMP**, **AI workflows**, and building my 
 ![Firebase](https://img.shields.io/badge/Firebase-Developer-yellow?logo=firebase)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-Exploring-purple)
 ![AI](https://img.shields.io/badge/AI%20Tools-Experimenting-black?logo=openai)
-![Content Creator](https://img.shields.io/badge/Flop%20Coder-Creator-red)
 
 ---
 
@@ -53,7 +51,7 @@ My time at **Get Licensed (UK)** played a major role in building discipline, cle
 
 ### ⚙️ State Management
 - Redux  
-- Riverpod 2.0  
+- Riverpod  
 - GetX  
 - Provider
 - BLoC  
@@ -105,21 +103,6 @@ Below are my **GitHub-showcased commercial projects**, each with its dedicated d
 
 ---
 
-# 🎥 Flop Coder — My Personal Brand
-
-I'm building **Flop Coder**, a fun, raw, real, educational brand for:
-
-- Flutter tutorials  
-- Kotlin learning journey  
-- Dev lifestyle content  
-- AI-powered experiments  
-- Short-form reels for social reach  
-
-🌐 Flop Coder Website/Bio Link  
-👉 [Bio Link](https://campsite.to/hbg_flop_coder)
-
----
-
 # ✈️ Hobbies & Interests
 
 - Traveling across Europe & Pakistan  
@@ -132,17 +115,9 @@ Track my German progress:
 
 ---
 
-# ☕ Support My Work
-
-If you’d like to support my open-source projects & content creation:
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/hamzag)
-
----
-
 ## 📄 CV / Resume
 You can download or view my full CV here:  
-[View CV](https://drive.google.com/file/d/12L-3mB_2rhaoeWKBXa1E6m20E1wS1lNZ/view?usp=sharing)
+[View CV]()
 
 ---
 
