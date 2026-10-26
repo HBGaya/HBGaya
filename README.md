@@ -117,7 +117,7 @@ Track my German progress:
 
 ## 📄 CV / Resume
 You can download or view my full CV here:  
-[View CV]()
+[View CV](https://drive.google.com/file/d/16eoWqQauArzS2I8in7fMMbR5tMLn_2V7/view?usp=sharing)
 
 ---
 
